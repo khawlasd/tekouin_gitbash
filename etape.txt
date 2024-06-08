@@ -1,0 +1,209 @@
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ touch task2.bash
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ git add .
+warning: in the working copy of 'task2.bash', LF will be replaced by CRLF the ne
+xt time Git touches it
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ git commit -m "task2"
+[main 63751da] task2
+ 1 file changed, 7 insertions(+)
+ create mode 100644 task2.bash
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ git push
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 392 bytes | 392.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/MounaElatoui/tekouin_gitbash.git
+   ccb22fe..63751da  main -> main
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ touch task3.bash
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ git add .
+warning: in the working copy of 'task3.bash', LF will be replaced by CRLF the ne
+xt time Git touches it
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ git commit -m "task3"
+[main 53fedc3] task3
+ 1 file changed, 6 insertions(+)
+ create mode 100644 task3.bash
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ git push
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 391 bytes | 391.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/MounaElatoui/tekouin_gitbash.git
+   63751da..53fedc3  main -> main
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ touch task4.bash
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ git add .
+warning: in the working copy of 'task4.bash', LF will be replaced by CRLF the ne
+xt time Git touches it
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ git commit -m "task4"
+[main 2e08844] task4
+ 1 file changed, 4 insertions(+)
+ create mode 100644 task4.bash
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ git push
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 351 bytes | 351.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/MounaElatoui/tekouin_gitbash.git
+   53fedc3..2e08844  main -> main
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ touch task5.bash
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ git add .
+warning: in the working copy of 'task5.bash', LF will be replaced by CRLF the ne
+xt time Git touches it
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ git commit -m "task5"
+[main 11792b8] task5
+ 1 file changed, 6 insertions(+)
+ create mode 100644 task5.bash
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ git push
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 426 bytes | 426.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/MounaElatoui/tekouin_gitbash.git
+   2e08844..11792b8  main -> main
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ touch task6.bash
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ git add .
+warning: in the working copy of 'task6.bash', LF will be replaced by CRLF the ne
+xt time Git touches it
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ git commit -m "task6"
+[main 56c4a55] task6
+ 1 file changed, 4 insertions(+)
+ create mode 100644 task6.bash
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ git push
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 360 bytes | 360.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/MounaElatoui/tekouin_gitbash.git
+   11792b8..56c4a55  main -> main
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ touch task7.bash
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ git add .
+warning: in the working copy of 'task7.bash', LF will be replaced by CRLF the ne
+xt time Git touches it
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ git commit -m "task7"
+[main 1fbbcf9] task7
+ 1 file changed, 4 insertions(+)
+ create mode 100644 task7.bash
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ git push
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 326 bytes | 326.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/MounaElatoui/tekouin_gitbash.git
+   56c4a55..1fbbcf9  main -> main
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ touch task8.bash
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ git add .
+warning: in the working copy of 'task8.bash', LF will be replaced by CRLF the ne
+xt time Git touches it
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ git commit -m "task8"
+[main 78dcb80] task8
+ 1 file changed, 4 insertions(+)
+ create mode 100644 task8.bash
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ git push
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 355 bytes | 355.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/MounaElatoui/tekouin_gitbash.git
+   1fbbcf9..78dcb80  main -> main
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ touch task9.bash
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ git add .
+warning: in the working copy of 'task9.bash', LF will be replaced by CRLF the ne
+xt time Git touches it
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ git commit -m "task9"
+[main 05a8476] task9
+ 1 file changed, 9 insertions(+)
+ create mode 100644 task9.bash
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$ git push
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 532 bytes | 532.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/MounaElatoui/tekouin_gitbash.git
+   78dcb80..05a8476  main -> main
+
+mouna@DESKTOP-9RMLCUK MINGW64 ~/OneDrive/Documents/GitHub/tekouin_gitbash (main)
+$
